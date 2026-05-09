@@ -3,7 +3,7 @@
 A Flask-based task management web application that utilizes PostgreSQL for data persistence, Pandas & NumPy for real-time analytics, and Flask-SocketIO for instant WebSocket updates.
 ## 🎥 Project Demo
 
-https://github.com/SwapnanilDatta/demo/blob/main/recording.mp4
+https://github.com/SwapnanilDatta/demo/blob/main/Recording.mp4
 
 ## Features
 - **User Authentication:** Register and login securely using Werkzeug hashing and Flask sessions.
